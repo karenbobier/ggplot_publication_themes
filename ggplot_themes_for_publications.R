@@ -1,6 +1,5 @@
 
-#modified from https://raw.githubusercontent.com/koundy/ggplot_theme_Publication/refs/heads/master/ggplot_theme_Publication-2.R", destfile='ggplot_theme_Publication-2.R
-
+#modified from https://github.com/koundy/ggplot_theme_Publication
 theme_Publication <- function(base_size=14, base_family="sans") {
   library(grid)
   library(ggthemes)
